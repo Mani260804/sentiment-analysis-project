@@ -1,0 +1,44 @@
+# Large data files
+data/raw/
+data/clean/final_predictions.csv
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Large model file
+models/best_model.pkl
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+```
+
+---
+
+## Step 5 — Create repo on GitHub
+
+1. Go to **github.com** → sign in as Mani260804
+2. Click **+** top right → **New repository**
+3. Fill in:
+   - Name: `sentiment-analysis-project`
+   - Description: `End-to-end sentiment analysis: EDA, PySpark, ML, NLP, Dashboard`
+   - Visibility: **Public**
+   - Do NOT tick "Add README" — you already have one
+4. Click **Create repository**
+5. Copy the URL shown — it will look like:
+```
+https://github.com/Mani260804/sentiment-analysis-project.git
+
+Add these lines to the bottom of the file:
+```
+# Large files blocked
+data/clean/reviews_clean.csv
+data/clean/final_predictions.csv
+jdk17.zip
+*.zip
+models/best_model.pkl

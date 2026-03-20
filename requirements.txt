@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+pyspark
+nltk
+vaderSentiment
+joblib
+jupyter
+notebook
+ipykernel
