@@ -29,11 +29,11 @@ EDA, big data processing with PySpark, machine learning, and NLP sentiment analy
 
 |---|---|---|---|
 
-| Logistic Regression | - | - | - |
+| Logistic Regression | 0.9172 | 0.952561 | 0.948861 |
 
-| Naive Bayes | - | - | - |
+| Naive Bayes | 0.8849 | 0.93591 | 0.934666 |
 
-| Random Forest | - | - | - |
+| Random Forest | 0.8816 | N/A | N/A |
 
 
 
